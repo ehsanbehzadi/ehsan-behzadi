@@ -15,7 +15,8 @@
 ### Skill Highlights
 
 ---
-+ work in shop
++ programing html
++ translat
 
 
 

@@ -1,30 +1,30 @@
 
-### Anahita Taheri
+### ehsan behzadi
 
 
 ### Personal informations
 
 ---
-+ name: Anahita
-+ last name : Taheri
-+ Date of birth : 1979/November/29
-+ I am a trader and IT engineering student
-+ location : Tehran , I.R.Iran
++ name: ehsan
++ last name : behzadi
++ Date of birth : 1985/January/1
++ I am a shopkeeper and software engineering student
++ location : bushehr , I.R.Iran
 
 
 ### Skill Highlights
 
 ---
-+ trade on Tehran Stock Exchange and Forex
-+ translating
++ work in shop
+
 
 
 ### Education
 
 ---
-+ Diploma : Aeen Tarbiat high school
-+ Bachelor of science : IT Engineering
-_ payam Noor University of North 
++ Diploma : taleqani high school
++ Bachelor of science : software Engineering
+_ payam Noor University of rey 
 
 ### language
 
@@ -35,15 +35,15 @@ _ payam Noor University of North
 ### Favorites
 
 ---
-+ Trade
-+ Studing historical books
+ 
++ Studing  books
 + travel 
-+ playing volleyball
++ playing football
 
 ### working Experience
 
 ---
-+ I am working in Caltural,Turism & Handicrafts Minister.
++ I  worked in organization syber net .
 
 
 
